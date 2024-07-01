@@ -33,6 +33,11 @@ https://www.figma.com/design/S0LTp0Ei0aaqR4mCZw6F4s/Movie-Website-(Community)?no
 ## Organaization Link :
 https://github.com/developing-team
 
+
+## Live-Url : http://developing-team.github.io/cima-kids/
+
+
+
 ### You can see Cima Kids Website from here : 
 https://github.com/developing-team/cima-kids
 
